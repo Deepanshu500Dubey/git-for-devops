@@ -1,0 +1,3 @@
+print("""Hello, World! how are you....i am coming for the greartest change in my life...i am goinna conquer everythinhg in my life
+      i am gonn ahave best hike....i will travel and i will have the love of my life...my bhole will do it for me ....
+      please bhole help me """)
